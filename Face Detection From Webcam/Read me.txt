@@ -1,0 +1,2 @@
+Run the file with Python 3
+Press Q to quit the camera window
