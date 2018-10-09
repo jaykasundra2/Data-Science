@@ -1,6 +1,6 @@
 rm(list=ls())
 pkgs<-c("data.table","dplyr","caret","h2o","readr","purrr","stringr","jsonlite","ggplot2",
-        "scales","tidyr","lubridate","Rmisc","caTools","Metrics")
+        "scales","tidyr","lubridate","Rmisc","caTools","Metrics","esquisse")
 sapply(pkgs,require,character.only=TRUE)
 
 train <- read_csv("train.csv")
