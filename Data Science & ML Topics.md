@@ -167,6 +167,13 @@
     - T5
     - GPT
     - XLNet
+  - Evaluation Metrics
+    - ROUGE (ROUGE-1, ROUGE-2, ROUGE-L)
+    - BLEU
+    - GLUE
+  - Other Concepts
+    - word sense embiguation
+    - beam search
 ### Ads and Ranking
 - CTR prediction
 - Ranking algorithms
