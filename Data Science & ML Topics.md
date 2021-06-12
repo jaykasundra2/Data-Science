@@ -109,6 +109,14 @@
   - self-attention
 - Transformer and its architecture
 - Embeddings (word embeddings)
+- Batch Normalization & Layer Normalization
+- Weight Initialization methods
+- Strategies to avoid overfitting
+  - Smaller network
+  - L2 regularization
+  - Drop out
+  - Weight decay
+  - Early stopping
 
 
 ## 3. Statistical ML
@@ -116,11 +124,19 @@
   - Naive Bayes
   - Maximum a posteriori (MAP) estimation
   - Maximum Likelihood (ML) estimation
-### Statistical significance
+
+## 4. Statistics
+- Probability Distributions
+- Normal, Poisson, Binomial, Bernoulli, Exponential, Uniform Distribution
+- Hypothesis Testing, Null Hypothesis and Alternative hypothesis, Type-1 Error(FP), Type-2 Error(FN)
+- Mean, Median, Mode
+- Z-score, Variance, Standard deviation, Standard Error, Confidence Interval
+- Box-Cox Transformation- 
 - R-squared
 - P-values
+- T-test, F-test, Z-test
 
-## 4. Other topics:
+## 5. Other topics:
   - Outliers
   - Similarity/dissimilarity metrics
     - Euclidean, Manhattan, Cosine, Mahalanobis (advanced)
